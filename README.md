@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7F062FF&height=140&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+a+minha+oficina!;Me+chamo+Luiz+Fernando+;Pretendo+compartilhar+meu+aprendizado+por+aqui.;Seguuura+o+peão)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F062FF&size=35&center=false&vCenter=false&width=1000&lines=Seja+bem-vindo+a+minha+oficina!;Me+chamo+Luiz+Fernando+e+Java+não+é+tão+assustador;Pretendo+compartilhar+meu+aprendizado+por+aqui.)](https://git.io/typing-svg)
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizfnnd&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Fernando Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfnnd&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizfnnd&show_icons=true&count_private=true&hide_border=true&title_color=F7F062FF&icon_color=F7F062FF&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Fernando Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfnnd&layout=compact&hide_border=true&title_color=F7F062FF&text_color=F7F062FF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfnnd&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfnnd&bg_color=000000&color=F7F062FF&line=F7F062FF&point=F7F062FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Skills/Studying in this moment:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -22,4 +22,4 @@
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7F062FF&height=140&section=footer"/>
